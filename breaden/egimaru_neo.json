@@ -19,6 +19,23 @@
   made: "Breaden"
   size: "3.5",
   type: "softall",
+  code: "S01-1435SF",
+  weight: "16g",
+  sinking_rate: "? s/m",
+  images: [
+    side: "images/S01-1435SF__side.jpg",
+    head: "images/S01-1435SF__head.jpg",
+    sinker: "images/S01-1435SF__sinker.jpg",
+  ],
+  base_color: "Magma Red",
+  color: "Cedar Pink"
+},
+{
+  series: "Egimaru NEO"
+  release_date: "",
+  made: "Breaden"
+  size: "3.5",
+  type: "softall",
   code: "S01-1535SF",
   weight: "16g",
   sinking_rate: "? s/m",

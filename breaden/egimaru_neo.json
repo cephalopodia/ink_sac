@@ -6,8 +6,10 @@
   type: "softall",
   code: "S01-1535SF",
   weight: "16g",
-  sinking_rate: "? s/m"
-  images: [],
+  sinking_rate: "? s/m",
+  images: [
+    side: "images/S01-1535SF__side.jpg"
+  ],
   base_color: "Magma Red",
   color: "Metal Horse Mackarel"
 }

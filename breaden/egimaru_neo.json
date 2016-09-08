@@ -57,7 +57,7 @@
   images: [
     side: "images/S01-1635SF__side.jpg",
     head: "images/S01-1635SF__head.jpg",
-    sinker: "images/S01-1635SF__sniker.jpg",
+    sinker: "images/S01-1635SF__sinker.jpg",
   ],
   base_color: "Magma Red",
   color: "Cedar Pink Purple"

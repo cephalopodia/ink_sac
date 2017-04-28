@@ -1,0 +1,194 @@
+{
+  "manufacturer_code": "4945826",
+  "manufacturer_name": "Harimitsu Sumizoku",
+  "products": [
+    {
+      "code": "VE-22FS",
+      "year": 2017,
+      "group": "2017 New Colour",
+      "name": "Phoenix",
+      "image": "http://www.sumizoku.com/product_img/072_fs/550.jpg",
+      "base_image": "http://www.sumizoku.com/product_mark/shitaji/coper.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11616 9",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11617 6",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11618 3",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22EOK",
+      "year": 2017,
+      "name": "Olive Red",
+      "group": "2017 New Colour",
+      "image": "http://www.sumizoku.com/product_img/073_eok/eok.jpg",
+      "base_image": "http://www.sumizoku.com/product_mark/shitaji/holo_two_red.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11619 0",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11620 6",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11621 3",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22T01",
+      "year": 2017,
+      "name": "Red Green / Meta Red",
+      "group": "Sumizoku Tsutsuika SP",
+      "image": "http://www.sumizoku.com/product_img/T01/550.jpg",
+      "base_image": "http://www.sumizoku.com/product_mark/shitaji/meta_red.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11631 2",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11637 4",
+          "price": 1000
+        },
+      ]
+    },
+    {
+      "code": "VE-22T02",
+      "year": 2017,
+      "name": "Blue Green / Meta Red",
+      "group": "Sumizoku Tsutsuika SP",
+      "image": "http://www.sumizoku.com/product_img/T02/550.jpg",
+      "base_image": "http://www.sumizoku.com/product_mark/shitaji/meta_red.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11632 9",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11638 1",
+          "price": 1000
+        },
+      ]
+    },
+    {
+      "code": "VE-22T03",
+      "year": 2017,
+      "name": "Green Red / Clear Red",
+      "group": "Sumizoku Tsutsuika SP",
+      "image": "http://www.sumizoku.com/product_img/T03/550.jpg",
+      "base_image": "http://www.sumizoku.com/product_mark/shitaji/clear_red.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11633 6",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11639 8",
+          "price": 1000
+        },
+      ]
+    },
+    {
+      "code": "VE-22T04",
+      "year": 2017,
+      "name": "Blue Red / Clear Red",
+      "group": "Sumizoku Tsutsuika SP",
+      "image": "http://www.sumizoku.com/product_img/T04/550.jpg",
+      "base_image": "http://www.sumizoku.com/product_mark/shitaji/clear_red.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11634 3",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11640 4",
+          "price": 1000
+        },
+      ]
+    },
+    {
+      "code": "VE-22T05",
+      "year": 2017,
+      "name": "Red Space / Clear",
+      "group": "Sumizoku Tsutsuika SP",
+      "image": "http://www.sumizoku.com/product_img/T05/550.jpg",
+      "base_image": "http://www.sumizoku.com/product_mark/shitaji/clear.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11635 0",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11641 1",
+          "price": 1000
+        },
+      ]
+    },
+    {
+      "code": "VE-22T06",
+      "year": 2017,
+      "name": "Red Yellow / Clear",
+      "group": "Sumizoku Tsutsuika SP",
+      "image": "http://www.sumizoku.com/product_img/T06/550.jpg",
+      "base_image": "http://www.sumizoku.com/product_mark/shitaji/clear.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11636 7",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11642 8",
+          "price": 1000
+        },
+      ]
+    },
+  ]
+}

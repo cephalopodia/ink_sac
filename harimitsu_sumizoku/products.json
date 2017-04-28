@@ -64,6 +64,7 @@
       "name": "Red Green / Meta Red",
       "group": "Sumizoku Tsutsuika SP",
       "image": "http://www.sumizoku.com/product_img/T01/550.jpg",
+      "base": "Glow",
       "base_image": "http://www.sumizoku.com/product_mark/shitaji/meta_red.jpg",
       "variants": [
         {
@@ -86,6 +87,7 @@
       "name": "Blue Green / Meta Red",
       "group": "Sumizoku Tsutsuika SP",
       "image": "http://www.sumizoku.com/product_img/T02/550.jpg",
+      "base": "Glow",
       "base_image": "http://www.sumizoku.com/product_mark/shitaji/meta_red.jpg",
       "variants": [
         {
@@ -108,6 +110,7 @@
       "name": "Green Red / Clear Red",
       "group": "Sumizoku Tsutsuika SP",
       "image": "http://www.sumizoku.com/product_img/T03/550.jpg",
+      "base": "Glow",
       "base_image": "http://www.sumizoku.com/product_mark/shitaji/clear_red.jpg",
       "variants": [
         {
@@ -130,6 +133,7 @@
       "name": "Blue Red / Clear Red",
       "group": "Sumizoku Tsutsuika SP",
       "image": "http://www.sumizoku.com/product_img/T04/550.jpg",
+      "base": "Glow",
       "base_image": "http://www.sumizoku.com/product_mark/shitaji/clear_red.jpg",
       "variants": [
         {
@@ -152,6 +156,7 @@
       "name": "Red Space / Clear",
       "group": "Sumizoku Tsutsuika SP",
       "image": "http://www.sumizoku.com/product_img/T05/550.jpg",
+      "base": "Glow",
       "base_image": "http://www.sumizoku.com/product_mark/shitaji/clear.jpg",
       "variants": [
         {
@@ -174,6 +179,7 @@
       "name": "Red Yellow / Clear",
       "group": "Sumizoku Tsutsuika SP",
       "image": "http://www.sumizoku.com/product_img/T06/550.jpg",
+      "base": "Glow",
       "base_image": "http://www.sumizoku.com/product_mark/shitaji/clear.jpg",
       "variants": [
         {
@@ -186,6 +192,349 @@
           "size": "3",
           "weight": "15g",
           "jan": "11642 8",
+          "price": 1000
+        },
+      ]
+    },
+    {
+      "code": "VE-22DR",
+      "year": 2005,
+      "name": "Orange / Red",
+      "group": "Colour of the groundwork RED",
+      "image": "http://www.sumizoku.com/product_img/002_DR/550.jpg",
+      "base_image": "http://www.sumizoku.com/product_mark/shitaji/red.jpg",
+      "variants": [
+        {
+          "size": "1.8",
+          "weight": "",
+          "jan": "11465 3",
+          "price": 1000
+        },
+        {
+          "size": "2.0",
+          "weight": "6.5g",
+          "jan": "11420 2",
+          "price": 1000
+        },
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11042 6",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11043 3",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11044 0",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11045 7",
+          "price": 1000
+        },
+      ]
+    },
+    {
+      "code": "VE-22PR",
+      "year": 2005,
+      "name": "Pink / Red",
+      "group": "Colour of the groundwork RED",
+      "image": "http://www.sumizoku.com/product_img/003_PR/550.jpg",
+      "base_image": "http://www.sumizoku.com/product_mark/shitaji/red.jpg",
+      "variants": [
+        {
+          "size": "1.8",
+          "weight": "",
+          "jan": "11466 0",
+          "price": 1000
+        },
+        {
+          "size": "2.0",
+          "weight": "6.5g",
+          "jan": "11421 9",
+          "price": 1000
+        },
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11052 5",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11053 2",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11054 9",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11055 6",
+          "price": 1000
+        },
+      ]
+    },
+    {
+      "code": "VE-22AR",
+      "year": 2008,
+      "name": "Asia / Red",
+      "group": "Colour of the groundwork RED",
+      "image": "http://www.sumizoku.com/product_img/007_AR/550.jpg",
+      "base_image": "http://www.sumizoku.com/product_mark/shitaji/red.jpg",
+      "base": "Substrate Red",
+      "fabric": "Pearl Net",
+      "fabric_image": "http://www.sumizoku.com/product_mark/shitaji/perl_net.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11177 5",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11178 2",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11179 9",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11180 5",
+          "price": 1000
+        },
+      ]
+    },
+    {
+      "code": "VE-22RR",
+      "year": 2006,
+      "name": "Red / Red",
+      "group": "Colour of the groundwork RED",
+      "image": "http://www.sumizoku.com/product_img/009_RR/550.jpg",
+      "base_image": "http://www.sumizoku.com/product_mark/shitaji/red.jpg",
+      "base": "Substrate Red",
+      "fabric": "Pearl Net",
+      "fabric_image": "http://www.sumizoku.com/product_mark/shitaji/perl_net.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11072 3",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11073 0",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11074 7",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11075 4",
+          "price": 1000
+        },
+      ]
+    },
+    {
+      "code": "VE-22SS",
+      "year": 2013,
+      "name": "Sexy Sunrise",
+      "group": "Colour of the groundwork RED",
+      "image": "http://www.sumizoku.com/product_img/046_SS/550.jpg",
+      "base_image": "http://www.sumizoku.com/product_mark/shitaji/red.jpg",
+      "base": "Substrate Red",
+      "fabric": "Pearl Net",
+      "fabric_image": "http://www.sumizoku.com/product_mark/shitaji/perl_net.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11380 9",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11381 6",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11382 3",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11383 0",
+          "price": 1000
+        },
+      ]
+    },
+    {
+      "code": "VE-22OSR",
+      "year": 2013,
+      "name": "Ogre Ajiledo",
+      "group": "Colour of the groundwork RED",
+      "image": "http://www.sumizoku.com/product_img/047_OR/550.jpg",
+      "base_image": "http://www.sumizoku.com/product_mark/shitaji/red_holo.jpg",
+      "base": "Holo Red",
+      "variants": [
+        {
+          "size": "1.8",
+          "weight": "",
+          "jan": "11464 6",
+          "price": 1000
+        },
+        {
+          "size": "2.0",
+          "weight": "6.5g",
+          "jan": "11419 6",
+          "price": 1000
+        },
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11384 7",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11385 4",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11386 1",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11387 8",
+          "price": 1000
+        },
+      ]
+    },
+    {
+      "code": "VE-22GNB",
+      "year": 2015,
+      "name": "玄武 (Xuanwu)",
+      "group": "Colour of the groundwork RED",
+      "image": "http://www.sumizoku.com/product_img/057_GNB/057_GNB_550.jpg",
+      "base_image": "http://www.sumizoku.com/product_mark/shitaji/red_holo.jpg",
+      "base": "Holo Red",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11549 0",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11550 6",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11551 3",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11552 0",
+          "price": 1000
+        },
+      ]
+    },
+    {
+      "code": "VE-22OSR",
+      "year": 2015,
+      "name": "Evil Red",
+      "group": "Colour of the groundwork RED",
+      "image": "http://www.sumizoku.com/product_img/063_osr/550.jpg",
+      "base_image": "http://www.sumizoku.com/product_mark/shitaji/red_holo.jpg",
+      "base": "Holo Red",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11565 0",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11566 7",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11567 4",
+          "price": 1000
+        },
+      ]
+    },
+    {
+      "code": "VE-22SD",
+      "year": 2015,
+      "name": "Spider",
+      "group": "Colour of the groundwork RED",
+      "image": "http://www.sumizoku.com/product_img/064_sd/550.jpg",
+      "base_image": "http://www.sumizoku.com/product_mark/shitaji/red_holo.jpg",
+      "base": "Holo Red",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11568 ",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11569 8",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11570 4",
           "price": 1000
         },
       ]

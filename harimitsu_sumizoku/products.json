@@ -1040,5 +1040,308 @@
         }
       ]
     },
+    {
+      "code": "VE-22EDN",
+      "year": 2008,
+      "name": "Orange / Rainbow",
+      "group": "Colour of the groundwork RAINBOW",
+      "image": "http://sumizoku.com/product_img/031_EDN/550.jpg",
+      "base": "Substrate Rainbow",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/rainbow.jpg",
+      "fabric": "Pearl",
+      "fabric_image": "http://sumizoku.com/product_mark/shitaji/perl_net.jpg",
+      "variants": [
+        {
+          "size": "1.8",
+          "weight": "",
+          "jan": "11470 7",
+          "price": 1000
+        },
+        {
+          "size": "2.0",
+          "weight": "6.5g",
+          "jan": "11425 7",
+          "price": 1000
+        },
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11147 8",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11148 5",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11149 2",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11150 8",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22EPN",
+      "year": 2008,
+      "name": "Pink / Rainbow",
+      "group": "Colour of the groundwork RAINBOW",
+      "image": "http://sumizoku.com/product_img/032_EPN/550.jpg",
+      "base": "Substrate Rainbow",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/rainbow.jpg",
+      "fabric": "Pearl",
+      "fabric_image": "http://sumizoku.com/product_mark/shitaji/perl_net.jpg",
+      "variants": [
+        {
+          "size": "1.8",
+          "weight": "",
+          "jan": "11471 4",
+          "price": 1000
+        },
+        {
+          "size": "2.0",
+          "weight": "6.5g",
+          "jan": "11426 4",
+          "price": 1000
+        },
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11152 2",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11153 9",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11154 6",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11155 3",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22KN",
+      "year": 2006,
+      "name": "Kibinago / Rainbow",
+      "group": "Colour of the groundwork RAINBOW",
+      "image": "http://sumizoku.com/product_img/034_KN/550.jpg",
+      "base": "Substrate Rainbow",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/rainbow.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11082 2",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11083 9",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11084 6",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11085 3",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22AN",
+      "year": 2010,
+      "name": "Asia / Rainbow",
+      "group": "Colour of the groundwork RAINBOW",
+      "image": "http://sumizoku.com/product_img/035_AN/550.jpg",
+      "base": "Substrate Rainbow",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/rainbow.jpg",
+      "fabric": "Pearl",
+      "fabric_image": "http://sumizoku.com/product_mark/shitaji/perl_net.jpg",
+      "variants": [
+        {
+          "size": "1.8",
+          "weight": "",
+          "jan": "11472 1",
+          "price": 1000
+        },
+        {
+          "size": "2.0",
+          "weight": "6.5g",
+          "jan": "11472 1",
+          "price": 1000
+        },
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11230 7",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11231 4",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11232 1",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11233 8",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22ZN",
+      "year": 2012,
+      "name": "Zebra Glow-N",
+      "group": "Colour of the groundwork RAINBOW",
+      "image": "http://sumizoku.com/product_img/041_ZN/550.jpg",
+      "base": "Substrate Rainbow",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/rainbow.jpg",
+      "fabric": "Pearl",
+      "fabric_image": "http://sumizoku.com/product_mark/shitaji/perl_net.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11281 9",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11282 6",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11283 3",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11284 0",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22IE",
+      "year": 2012,
+      "name": "Ice Sardines",
+      "group": "Colour of the groundwork RAINBOW",
+      "image": "http://sumizoku.com/product_img/042_IE/550.jpg",
+      "base": "Substrate Rainbow",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/rainbow.jpg",
+      "fabric": "Pearl",
+      "fabric_image": "http://sumizoku.com/product_mark/shitaji/perl_net.jpg",
+      "variants": [
+        {
+          "size": "1.8",
+          "weight": "",
+          "jan": "11473 8",
+          "price": 1000
+        },
+        {
+          "size": "2.0",
+          "weight": "6.5g",
+          "jan": "11428 8",
+          "price": 1000
+        },
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11285 7",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11286 4",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11287 1",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11288 8",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22BYK",
+      "year": 2015,
+      "name": "White Tiger",
+      "group": "Colour of the groundwork RAINBOW",
+      "image": "http://sumizoku.com/product_img/056_BYK/056_BYK_550.jpg",
+      "base": "Substrate Rainbow",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/rainbow.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11545 2",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11546 9",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11547 6",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11548 3",
+          "price": 1000
+        }
+      ]
+    },
   ]
 }

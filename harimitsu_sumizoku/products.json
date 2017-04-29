@@ -815,6 +815,230 @@
           "price": 1000
         }
       ]
-    }
+    },
+    {
+      "code": "VE-22SDG",
+      "year": 2006,
+      "name": "Sugi / Orange / Gold",
+      "group": "Colour of the groundwork GOLD",
+      "image": "http://sumizoku.com/product_img/013_SDG/550.jpg",
+      "base": "Gold",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/gold.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11057 0",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11058 7",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11059 4",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11060 0",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22AG",
+      "year": 2005,
+      "name": "Asia / Gold",
+      "group": "Colour of the groundwork GOLD",
+      "image": "http://sumizoku.com/product_img/017_AG/550.jpg",
+      "base": "Gold",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/gold.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11022 8",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11023 5",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11024 2",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11025 9",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22AJ",
+      "year": 2005,
+      "name": "Aji",
+      "group": "Colour of the groundwork GOLD",
+      "image": "http://sumizoku.com/product_img/043_AJ/550.jpg",
+      "base": "Substrate Holo Copper Gold",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/coper.jpg",
+      "fabric": "Pearl",
+      "fabric_image": "http://sumizoku.com/product_mark/shitaji/perl_net.jpg",
+      "variants": [
+        {
+          "size": "1.8",
+          "weight": "",
+          "jan": "11469 1",
+          "price": 1000
+        },
+        {
+          "size": "2.0",
+          "weight": "6.5g",
+          "jan": "11424 0",
+          "price": 1000
+        },
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11289 5",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11290 1",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11291 8",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11292 5",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22IS",
+      "year": 2012,
+      "name": "Isaki",
+      "group": "Colour of the groundwork GOLD",
+      "image": "http://sumizoku.com/product_img/044_IS/550.jpg",
+      "base": "Substrate Holo Gold",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/holo_gold.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11293 2",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11294 9",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11295 6",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11296 3",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22EDM",
+      "year": 2007,
+      "name": "Mandarin Orange",
+      "group": "Colour of the groundwork MARBLE",
+      "image": "http://sumizoku.com/product_img/019_EDM/550.jpg",
+      "base": "Marble",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/marble.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11112 6",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11113 3",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11114 0",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11115 7",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22EPM",
+      "year": 2007,
+      "name": "Cherry",
+      "group": "Colour of the groundwork MARBLE",
+      "image": "http://sumizoku.com/product_img/021_EPM/550.jpg",
+      "base": "Marble",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/marble.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11112 6",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11113 3",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11114 0",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11115 7",
+          "price": 1000
+        }
+      ]
+    },
   ]
 }

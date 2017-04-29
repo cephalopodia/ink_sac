@@ -78,7 +78,7 @@
           "weight": "15g",
           "jan": "11637 4",
           "price": 1000
-        },
+        }
       ]
     },
     {
@@ -101,7 +101,7 @@
           "weight": "15g",
           "jan": "11638 1",
           "price": 1000
-        },
+        }
       ]
     },
     {
@@ -124,7 +124,7 @@
           "weight": "15g",
           "jan": "11639 8",
           "price": 1000
-        },
+        }
       ]
     },
     {
@@ -147,7 +147,7 @@
           "weight": "15g",
           "jan": "11640 4",
           "price": 1000
-        },
+        }
       ]
     },
     {
@@ -170,7 +170,7 @@
           "weight": "15g",
           "jan": "11641 1",
           "price": 1000
-        },
+        }
       ]
     },
     {
@@ -193,7 +193,7 @@
           "weight": "15g",
           "jan": "11642 8",
           "price": 1000
-        },
+        }
       ]
     },
     {
@@ -240,7 +240,7 @@
           "weight": "25g",
           "jan": "11045 7",
           "price": 1000
-        },
+        }
       ]
     },
     {
@@ -287,7 +287,7 @@
           "weight": "25g",
           "jan": "11055 6",
           "price": 1000
-        },
+        }
       ]
     },
     {
@@ -324,7 +324,7 @@
           "weight": "25g",
           "jan": "11180 5",
           "price": 1000
-        },
+        }
       ]
     },
     {
@@ -361,7 +361,7 @@
           "weight": "25g",
           "jan": "11075 4",
           "price": 1000
-        },
+        }
       ]
     },
     {
@@ -398,13 +398,13 @@
           "weight": "25g",
           "jan": "11383 0",
           "price": 1000
-        },
+        }
       ]
     },
     {
       "code": "VE-22OSR",
       "year": 2013,
-      "name": "Ogre Ajiledo",
+      "name": "Demon Red",
       "group": "Colour of the groundwork RED",
       "image": "http://www.sumizoku.com/product_img/047_OR/550.jpg",
       "base_image": "http://www.sumizoku.com/product_mark/shitaji/red_holo.jpg",
@@ -445,7 +445,7 @@
           "weight": "25g",
           "jan": "11387 8",
           "price": 1000
-        },
+        }
       ]
     },
     {
@@ -480,13 +480,13 @@
           "weight": "25g",
           "jan": "11552 0",
           "price": 1000
-        },
+        }
       ]
     },
     {
       "code": "VE-22OSR",
       "year": 2015,
-      "name": "Evil Red",
+      "name": "Demon Ebi Red",
       "group": "Colour of the groundwork RED",
       "image": "http://www.sumizoku.com/product_img/063_osr/550.jpg",
       "base_image": "http://www.sumizoku.com/product_mark/shitaji/red_holo.jpg",
@@ -509,7 +509,7 @@
           "weight": "21g",
           "jan": "11567 4",
           "price": 1000
-        },
+        }
       ]
     },
     {
@@ -524,7 +524,7 @@
         {
           "size": "2.5",
           "weight": "10g",
-          "jan": "11568 ",
+          "jan": "11568 1",
           "price": 1000
         },
         {
@@ -538,8 +538,283 @@
           "weight": "21g",
           "jan": "11570 4",
           "price": 1000
-        },
+        }
       ]
     },
+    {
+      "code": "VE-22SKP",
+      "year": 2016,
+      "name": "Sakura Pink",
+      "group": "Colour of the groundwork GLOW",
+      "image": "http://sumizoku.com/product_img/068_skp/550.jpg",
+      "base": "Glow",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/glow.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11583 4",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11584 1",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11585 8",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11586 5",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22IG",
+      "year": 2016,
+      "name": "Izanami Gold",
+      "group": "Colour of the groundwork GLOW",
+      "image": "http://sumizoku.com/product_img/069_ig/550.jpg",
+      "base": "Glow",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/glow.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11587 2",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11588 9",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11589 6",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11590 2",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22KR",
+      "year": 2016,
+      "name": "Kushinada Gold",
+      "group": "Colour of the groundwork GLOW",
+      "image": "http://sumizoku.com/product_img/070_kr/550.jpg",
+      "base": "Glow",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/glow.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11591 9",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11592 6",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11593 3",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11594 0",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22TM",
+      "year": 2016,
+      "name": "Tsukuyomi Purple",
+      "group": "Colour of the groundwork GLOW",
+      "image": "http://sumizoku.com/product_img/071_tm/550.jpg",
+      "base": "Glow",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/glow.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11595 7",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11596 4",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11597 1",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11598 8",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22EDY",
+      "year": 2009,
+      "name": "Orange / Glow",
+      "group": "Colour of the groundwork GLOW",
+      "image": "http://sumizoku.com/product_img/010_EDY/550.jpg",
+      "base": "Glow",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/glow.jpg",
+      "fabric": "Pearl",
+      "fabric_image": "http://sumizoku.com/product_mark/shitaji/perl_net.jpg",
+      "variants": [
+        {
+          "size": "1.8",
+          "weight": "",
+          "jan": "11467 7",
+          "price": 1000
+        },
+        {
+          "size": "2.0",
+          "weight": "6.5g",
+          "jan": "11422 6",
+          "price": 1000
+        },
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11189 8",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11190 4",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11191 1",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11192 8",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22EPY",
+      "year": 2009,
+      "name": "Pink / Glow",
+      "group": "Colour of the groundwork GLOW",
+      "image": "http://sumizoku.com/product_img/011_EPY/550.jpg",
+      "base": "Glow",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/glow.jpg",
+      "fabric": "Pearl",
+      "fabric_image": "http://sumizoku.com/product_mark/shitaji/perl_net.jpg",
+      "variants": [
+        {
+          "size": "1.8",
+          "weight": "",
+          "jan": "11468 4",
+          "price": 1000
+        },
+        {
+          "size": "2.0",
+          "weight": "6.5g",
+          "jan": "14 23 3",
+          "price": 1000
+        },
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11194 2",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11195 9",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11196 6",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11197 3",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22AY",
+      "year": 2009,
+      "name": "Asia / Glow",
+      "group": "Colour of the groundwork GLOW",
+      "image": "http://sumizoku.com/product_img/012_AY/550.jpg",
+      "base": "Glow",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/glow.jpg",
+      "fabric": "Pearl",
+      "fabric_image": "http://sumizoku.com/product_mark/shitaji/perl_net.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11199 7",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11200 0",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11201 7",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11202 4",
+          "price": 1000
+        }
+      ]
+    }
   ]
 }

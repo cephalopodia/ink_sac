@@ -1761,5 +1761,174 @@
         }
       ]
     },
+    {
+      "code": "VE-22SIR",
+      "year": 2015,
+      "name": "Blue Dragon",
+      "group": "Colour of the groundwork BLUE",
+      "image": "http://sumizoku.com/product_img/054_SIR/054_SIR_550.jpg",
+      "base": "Holo Blue",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/holo_blue.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11541 4",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11542 1",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11543 8",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11544 5",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22HS",
+      "year": 2015,
+      "name": "Hokusai",
+      "group": "Colour of the groundwork BLUE",
+      "image": "http://sumizoku.com/product_img/066_hs/550.jpg",
+      "base": "Holo Blue",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/holo_blue.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11574 2",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11575 9",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11576 6",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22GK",
+      "year": 2016,
+      "name": "Goku",
+      "group": "Limited Model",
+      "image": "http://sumizoku.com/product_img/2016_gk/2016_gk.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11580 3",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11581 0",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11582 7",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22PA",
+      "year": 2010,
+      "name": "Pirates / Asia",
+      "group": "The 60th Anniversary Colour",
+      "image": "http://sumizoku.com/product_img/60th_PA/550.jpg",
+      "base": "Substrate Rainbow",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/rainbow.jpg",
+      "fabric": "Pearl",
+      "fabric_image": "http://sumizoku.com/product_mark/shitaji/perl_net.jpg",
+      "extra_image": "http://sumizoku.com/product_mark/60th.jpg",
+      "variants": [
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11244 4",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11247 5",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22CB",
+      "year": 2010,
+      "name": "Combat / Blood",
+      "group": "The 60th Anniversary Colour",
+      "image": "http://sumizoku.com/product_img/60th_CB/550.jpg",
+      "base": "Clear",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/clear.jpg",
+      "fabric": "Pearl",
+      "fabric_image": "http://sumizoku.com/product_mark/shitaji/perl_net.jpg",
+      "extra_image": "http://sumizoku.com/product_mark/60th.jpg",
+      "variants": [
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11245 1",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11248 2",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22BM",
+      "year": 2010,
+      "name": "Batman",
+      "group": "The 60th Anniversary Colour",
+      "image": "http://sumizoku.com/product_img/60th_BM/550.jpg",
+      "base": "Red",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/red.jpg",
+      "fabric": "Pearl",
+      "fabric_image": "http://sumizoku.com/product_mark/shitaji/perl_net.jpg",
+      "extra_image": "http://sumizoku.com/product_mark/60th.jpg",
+      "variants": [
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11246 8",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11249 9",
+          "price": 1000
+        }
+      ]
+    },
   ]
 }

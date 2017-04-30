@@ -1732,5 +1732,34 @@
         }
       ]
     },
+    {
+      "code": "VE-22BT",
+      "year": 2015,
+      "name": "Peony",
+      "group": "Colour of the groundwork AKAKIN",
+      "image": "http://sumizoku.com/product_img/067_bt/550.jpg",
+      "base": "Akakin",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/akakin.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11577 3",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11578 0",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11579 7",
+          "price": 1000
+        }
+      ]
+    },
   ]
 }

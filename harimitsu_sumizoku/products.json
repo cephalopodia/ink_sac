@@ -1343,5 +1343,71 @@
         }
       ]
     },
+    {
+      "code": "VE-22MM",
+      "year": 2010,
+      "name": "Purple / Purple",
+      "group": "Colour of the groundwork PURPLE",
+      "image": "http://sumizoku.com/product_img/036_MM/550.jpg",
+      "base": "Substrate Purple",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/purple.jpg",
+      "fabric": "Pearl",
+      "fabric_image": "http://sumizoku.com/product_mark/shitaji/perl_net.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11218 5",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11219 2",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11220 8",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11221 5",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22RD",
+      "year": 2015,
+      "name": "Raiden",
+      "group": "Colour of the groundwork PURPLE",
+      "image": "http://sumizoku.com/product_img/065_rd/550.jpg",
+      "base": "Purple Holo",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/purple_holo.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11571 1",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11572 8",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11573 5",
+          "price": 1000
+        }
+      ]
+    },
   ]
 }

@@ -1409,5 +1409,328 @@
         }
       ]
     },
+    {
+      "code": "VE-22KS",
+      "year": 2005,
+      "name": "Kibinago / Silver",
+      "group": "Colour of the groundwork SILVER",
+      "image": "http://sumizoku.com/product_img/038_KS/550.jpg",
+      "base": "Silver",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/silver.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11027 3",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11028 0",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11029 7",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11030 3",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22MS",
+      "year": 2013,
+      "name": "Amethyst",
+      "group": "Colour of the groundwork GREEN",
+      "image": "http://sumizoku.com/product_img/048_MS/550.jpg",
+      "base": "Green",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/green_holo.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11388 5",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11389 2",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11390 8",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11391 5",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22DW",
+      "year": 2013,
+      "name": "Dying White",
+      "group": "Colour of the groundwork BLACK / RED",
+      "image": "http://sumizoku.com/product_img/045_DW/550.jpg",
+      "base": "Black / Red",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/black_red.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11376 2",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11377 9",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11378 6",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11379 3",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22PB",
+      "year": 2013,
+      "name": "Poison Black",
+      "group": "Colour of the groundwork BLUE / RED",
+      "image": "http://sumizoku.com/product_img/049_PB/550.jpg",
+      "base": "Holo Blue / Red",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/blue_red.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11392 2",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11393 9",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11394 6",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11395 3",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22PU",
+      "year": 2014,
+      "name": "Pink Apricot",
+      "group": "Colour of the groundwork PURPLE / RED",
+      "image": "http://sumizoku.com/product_img/052_PU/550.jpg",
+      "base": "Purple / Red",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/purple_red.jpg",
+      "fabric": "Pearl",
+      "fabric_image": "http://sumizoku.com/product_mark/shitaji/perl_net.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11451 6",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11452 3",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11453 0",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11454 7",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22ST",
+      "year": 2014,
+      "name": "Sequoia Trad",
+      "group": "Colour of the groundwork AKAKIN",
+      "image": "http://sumizoku.com/product_img/053_ST/550.jpg",
+      "base": "Akakin",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/akakin.jpg",
+      "fabric": "Pearl",
+      "fabric_image": "http://sumizoku.com/product_mark/shitaji/perl_net.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11455 4",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11456 1",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11457 8",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11458 5",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22CR",
+      "year": 2014,
+      "name": "Amber Red",
+      "group": "Colour of the groundwork AKAKIN",
+      "image": "http://sumizoku.com/product_img/050_CR/550.jpg",
+      "base": "Akakin",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/akakin.jpg",
+      "fabric": "Pearl",
+      "fabric_image": "http://sumizoku.com/product_mark/shitaji/perl_net.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11441 7",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11442 4",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11443 1",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11444 8",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22BSR",
+      "year": 2014,
+      "name": "Jinhua Mackerel",
+      "group": "Colour of the groundwork AKAKIN",
+      "image": "http://sumizoku.com/product_img/051_BSR/550.jpg",
+      "base": "Substrate Red",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/red.jpg",
+      "fabric": "Pearl",
+      "fabric_image": "http://sumizoku.com/product_mark/shitaji/perl_net.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11445 5",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11446 2",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11447 9",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11448 6",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "code": "VE-22SZK",
+      "year": 2015,
+      "name": "Suzaku",
+      "group": "Colour of the groundwork AKAKIN",
+      "image": "http://sumizoku.com/product_img/055_SZK/055_SZK_550.jpg",
+      "base": "Akakin",
+      "base_image": "http://sumizoku.com/product_mark/shitaji/akakin.jpg",
+      "variants": [
+        {
+          "size": "2.5",
+          "weight": "10g",
+          "jan": "11537 7",
+          "price": 1000
+        },
+        {
+          "size": "3",
+          "weight": "15g",
+          "jan": "11538 4",
+          "price": 1000
+        },
+        {
+          "size": "3.5",
+          "weight": "21g",
+          "jan": "11539 1",
+          "price": 1000
+        },
+        {
+          "size": "4.0",
+          "weight": "25g",
+          "jan": "11540 7",
+          "price": 1000
+        }
+      ]
+    },
   ]
 }
